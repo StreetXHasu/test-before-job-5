@@ -1,7 +1,6 @@
 # ide phpstorm and other...
 .idea
-
-
+.DS_Store
 
 ###> symfony/framework-bundle ###
 /.env.local
