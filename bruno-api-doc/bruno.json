@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "test-before-job-5",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
